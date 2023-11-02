@@ -1,4 +1,4 @@
-### Hi there 👋
+![Untitled (Banner (Landscape)) (1)](https://github.com/isbrakha/isbrakha/assets/147268451/e4970def-8b3e-44dc-bfbf-eb8f3e0548fd)### Hi there 👋
 
 <!--
 **isbrakha/isbrakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![Untitled (Banner (Landscape)) (1)](https://github.com/isbrakha/isbrakha/assets/147268451/1dfdf91c-3d35-4e30-856d-81b0844a2f7c)
