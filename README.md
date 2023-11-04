@@ -2,7 +2,7 @@
 
 # Hi. Isaac here 🤙
 
-## 🖲️⌨️ Software Engineer & Creative Developer
+## 🖲️Software Engineer & Creative Developer⌨️
 
 ## Welcome to my digital sandbox 🕹️🏖️
 
