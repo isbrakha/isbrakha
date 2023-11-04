@@ -16,11 +16,11 @@ I'm a very passionate programmer obsessed with buillding innovatice applications
  - Engaging with the tech community to collaborate on open-source projects and contribute to software development
 
 ### 📬 How to reach me
-    - LinkedIn: [Isaac Brakha](www.linkedin.com/in/isaacbrakhadev)
-    - E-mail: isaacbrakha14@gmail.com
+   - LinkedIn: [Isaac Brakha](www.linkedin.com/in/isaacbrakhadev)
+   - E-mail: isaacbrakha14@gmail.com
 
 ### 🤝 Let's chat
-    - Feel free to connect with me if you'd like to collaborate on projects or just chat about tech and innovative ideas
+   - Feel free to connect with me if you'd like to collaborate on projects or just chat about tech and innovative ideas
 
 
 
